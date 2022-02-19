@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ueHMH8gveEUzmoptmkOv4/6Jh7UwGBqNJs3i/dZcNdFNJNjHwoD8+04EBB5s/bsmtKaooEbG+x+TqmpNmfduVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Сергей\\source\\repos\\ROT13\\ROT13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
